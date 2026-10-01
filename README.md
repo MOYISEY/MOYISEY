@@ -36,10 +36,13 @@ Frontend-разработчик из Астаны. Работаю с React, Type
 
 ## Опыт
 
-| Когда | Где | Работа |
-| :--- | :--- | :--- |
-| Март — апрель 2026 | **IQadam Systems** | Frontend-разработка и тестирование: модули, API, SQL, тестовые сценарии и code review. |
-| Май — июнь 2025 | **Astana Digital Outsource** | Frontend Developer Trainee: React, Tailwind, Material UI и REST API. |
+**IQadam Systems** · март — апрель 2026
+
+Frontend-разработка и тестирование: модули, API, SQL, тестовые сценарии и code review.
+
+**Astana Digital Outsource** · май — июнь 2025
+
+Frontend Developer Trainee: React, Tailwind, Material UI и REST API.
 
 ## Инструменты
 
