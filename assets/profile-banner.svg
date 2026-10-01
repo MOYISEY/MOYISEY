@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Бахтияр Зикирин — frontend</title>
+  <desc id="desc">Светлая композиция с тремя связанными слоями: UI, logic, data.</desc>
+  <rect width="1200" height="300" rx="12" fill="#f3f0e8"/>
+  <path d="M44 44H1156M44 256H1156" stroke="#c6cebf"/>
+  <circle cx="54" cy="73" r="5" fill="#bb3d25"/>
+  <text x="74" y="79" fill="#23615b" font-family="Consolas,monospace" font-size="14" letter-spacing="2">FRONTEND / ASTANA</text>
+  <text x="44" y="145" fill="#172223" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="600" letter-spacing="-2">Бахтияр Зикирин</text>
+  <text x="46" y="185" fill="#435a49" font-family="Segoe UI,Arial,sans-serif" font-size="20">Интерфейс. Логика. Данные.</text>
+  <text x="46" y="235" fill="#23615b" font-family="Consolas,monospace" font-size="14">REACT  /  TYPESCRIPT  /  API</text>
+  <g fill="none" stroke="#23615b" stroke-width="1.5">
+    <path d="m796 85 210-26 133 45-210 27Z" fill="#d9e2d4"/>
+    <path d="m796 139 210-26 133 45-210 27Z" fill="#e9eadf"/>
+    <path d="m796 193 210-26 133 45-210 27Z" fill="#d9e2d4"/>
+    <path d="M815 91v102m178-128v102m127-57v102m-209-82v108" stroke="#8da28d" stroke-dasharray="3 5"/>
+  </g>
+  <g fill="#172223" font-family="Consolas,monospace" font-size="15">
+    <text x="953" y="99">UI</text><text x="945" y="153">LOGIC</text><text x="945" y="207">DATA</text>
+  </g>
+  <path d="M881 98v55h31v54" fill="none" stroke="#bb3d25" stroke-width="3"/>
+  <circle cx="881" cy="98" r="5" fill="#bb3d25"/>
+  <circle cx="912" cy="207" r="5" fill="#bb3d25"/>
+</svg>
