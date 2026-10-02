@@ -20,6 +20,22 @@ Frontend-разработчик из Астаны. Работаю с React, Type
 
 `React` · `TypeScript` · `Web Worker` · `Papa Parse`
 
+### Framepack — изображения для адаптивной вёрстки
+
+Несколько web-размеров из JPEG, PNG и WebP без увеличения исходников. ZIP с изображениями, manifest и srcset; размеры и вес берутся из готовых файлов. Alt пишет пользователь. Обработка в браузере.
+
+[Открыть Framepack](https://moyisey.github.io/framepack/) · [Код](https://github.com/MOYISEY/framepack)
+
+`React` · `TypeScript` · `Canvas` · `Web Worker`
+
+### Shapecheck — проверка JSON-контракта
+
+JSON Schema и положительные/отрицательные примеры, точные пути ошибок и экспорт запускаемых Node-тестов без установки npm-зависимостей. Ограниченное подмножество draft-07; проект сохраняется на устройстве только по выбору.
+
+[Открыть Shapecheck](https://moyisey.github.io/shapecheck/) · [Код](https://github.com/MOYISEY/shapecheck)
+
+`React` · `TypeScript` · `AJV` · `Web Worker`
+
 ### System Atelier — персональное портфолио
 
 Три слоя приложения в интерактивной 3D-сцене: интерфейс, логика и данные. Сцену можно собрать, разделить и проследить путь клика. Есть 2D-режим, управление с клавиатуры и поддержка reduced motion.
